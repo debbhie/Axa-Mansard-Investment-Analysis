@@ -34,3 +34,11 @@ After loading the cleaned data into Power BI, the following transformations and 
   - Net Cash Flow (difference between inflow and outflow)
 
   - Quarterly Returns (to track investment gains over time)
+
+# SKILLS DEMONSTRATED
+This analysis involved multiple data processing and analytical techniques, including:
+- Data Extraction & Transformation: Converting PDF data and cleaning it in Excel.
+- Data Processing & Cleaning: Structuring messy data using Power Query.
+- Data Analysis & Quick Measures: Creating meaningful insights with DAX measures in Power BI.
+- Visualization & Reporting: Presenting findings in a clear and actionable format.
+- Critical Thinking & Problem-Solving: Identifying key financial trends and investment opportunities.
