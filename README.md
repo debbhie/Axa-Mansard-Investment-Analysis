@@ -26,6 +26,7 @@ The dataset was obtained from AXA Mansard in PDF format. To make it usable for a
 Several steps were taken in Power Query (Microsoft Excel) to ensure the data was clean and well-structured:
 - Data types were standardized.
 - The first row was promoted to headers for consistency.
+![axa cleaning](https://github.com/user-attachments/assets/66d9c389-07f7-4c4a-b357-470801289473)
 
 ### Data Preparation in Power BI:
 After loading the cleaned data into Power BI, the following transformations and enhancements were made:
