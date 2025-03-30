@@ -3,7 +3,7 @@
 # TABLE OF CONTENT
 
 # AXA MANSARD INVESTMENT OVERVIEW
-This report presents a comprehensive analysis of my husband's investment with AXA Mansard from 2019 to 2024, based on the provided dataset. The primary objective of this analysis is to track deposits, liquidations, and profits generated from the money market investment. By examining these financial activities, this report aims to provide clearer insights into investment performance and offer strategic recommendations on optimizing returns by minimizing withdrawals or liquidations.
+This report presents a comprehensive analysis of my husband's Mmonry market investment with AXA Mansard from 2019 to 2024, based on the provided dataset. The primary objective of this analysis is to track deposits, liquidations, and profits generated from the money market investment. By examining these financial activities, this report aims to provide clearer insights into investment performance and offer strategic recommendations on optimizing returns by minimizing withdrawals or liquidations.
 
 # DATA SOURCE
 The dataset was obtained from AXA Mansard in PDF format. To make it usable for analysis, a PDF converter was used to transform the data into an Excel file. Since the extracted data was messy, it was cleaned and structured in Microsoft Excel before further processing.
@@ -78,3 +78,32 @@ The analysis reveals several key financial insights related to the investment pe
    * The total sum of sales (withdrawals) is 42,733,147.61, representing 55.46% of the total transactions.
    * The total sum of purchases (deposits) is 34,323,397.96, accounting for 44.54% of the transactions. This analysis shows that withdrawals exceeded deposits over the investment period, contributing to the negative net cash flow.
 
+# INSIGHTS
+- Negative Cash Flow and ROI: The Net Cash Flow of -8,409,749.65 and Return on Investment (ROI) of -19.69% indicate that the investment did not perform well overall. Outflows (withdrawals or liquidations) exceeded the inflows (deposits or purchases), resulting in a net loss.
+
+- Large Transactions in March: March's high transaction volume, especially liquidations, significantly contributed to the overall losses. More cautious withdrawal strategies could have improved long-term profitability.
+
+- Imbalance in Sales and Purchases: The imbalance between withdrawals and deposits was a key driver of the negative cash flow. The higher frequency and value of sales indicate that the investment suffered from too many liquidations.
+
+- Sales and Purchase Frequency by Month: The pattern suggests seasonality in transaction activity, with sales peaking in October and purchases peaking in April. Understanding this seasonal pattern could be useful for planning future investments and liquidations.
+
+- Top Largest Withdrawals: These significant liquidations would have substantially impacted the investment’s ability to grow. Avoiding large withdrawals in a short span of time might help mitigate the negative impact on cash flow and ROI. 
+
+- Quarterly Profit Peaks: Despite the overall negative cash flow, these quarters (Q4 2024 and Q2 2020) saw positive returns, suggesting that specific periods were profitable.
+
+- Total Profits: Despite the losses, a total profit of 720,487.31 was generated over the years. The investment had potential, but the key issue was excessive withdrawals which limited the overall profitability.
+
+# RECOMMENDATIONS
+- Reduce Withdrawals to Maximize Investment Growth: Develop a disciplined approach to withdrawals. Limit withdrawals to essential needs and avoid withdrawing large sums, especially in short intervals. Allow more time for the investment to accumulate profits.
+
+- Plan Strategic Withdrawals During High-Return Quarters: Identify the quarters with historically higher returns and schedule withdrawals during these periods, if necessary, to optimize the value of the investment. Withdraw less during low-profit or negative cash flow periods to preserve capital.
+
+-  Reinvest Profits and Minimize Liquidations in High-Inflow Months: Reinvest inflows during high-activity months like March instead of making large withdrawals. This will capitalize on the increased deposits and help balance the cash flow over the investment period.
+
+-  Monitor and Reduce the Frequency of Sales (Withdrawals): Track the sales frequency and actively reduce it. Evaluate whether each withdrawal is necessary or if the funds can stay invested for longer. Use purchase opportunities to reinvest capital.
+
+- Leverage Profitable Quarters to Reinvest and Grow Capital: Use high-return quarters to reinvest the profits back into the account. Reinvestment during profitable periods will allow the account to grow faster and potentially offset the negative impacts of previous withdrawals.
+
+- Establish a Long-Term Growth Strategy: Focus on long-term growth by allowing the investment to remain intact for longer periods. Create an investment plan that minimizes early withdrawals and emphasizes reinvesting returns to maximize compounded growth over time.
+
+- Consider Professional Financial Advice for Investment Management: Seek professional financial advice to develop a comprehensive investment strategy that focuses on optimizing returns, minimizing unnecessary liquidations, and planning strategic withdrawals based on market conditions.
