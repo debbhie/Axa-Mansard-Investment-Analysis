@@ -75,7 +75,10 @@ The analysis reveals several key financial insights related to the investment pe
 
 - Monthly Inflow and Outflow:
    * The highest monthly inflow was recorded in March, totaling 6,498,004.10.
+  ![Axa infow](https://github.com/user-attachments/assets/814de9e5-7a42-42ba-9cb4-ed0d0543bbe8)
+
    * The highest outflow occurred in the same month, with a total of 9,212,434.46. This suggests that March was a particularly active month for transactions, especially liquidations.
+![Axa outflow2](https://github.com/user-attachments/assets/030fb9e1-8178-4d20-bd0a-ed833a75144d)
 
 - Sales and Purchase Frequency:
    * October had the highest number of sales transactions, with 34 recorded sales.
