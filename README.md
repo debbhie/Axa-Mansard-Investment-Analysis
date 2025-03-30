@@ -8,4 +8,13 @@ This report presents a comprehensive analysis of my husband's investment with AX
 # DATA SOURCE
 The dataset was obtained from AXA Mansard in PDF format. To make it usable for analysis, a PDF converter was used to transform the data into an Excel file. Since the extracted data was messy, it was cleaned and structured in Microsoft Excel before further processing.
 
+# TOOLS
+- Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis.
+- Power BI: Employed for the main analysis and data visualization, enabling the extraction of key insights through DAX measures and visual tools.
+
+# DATA PROCESSING
+### Data Transformation:
+Several steps were taken in Power Query (Microsoft Excel) to ensure the data was clean and well-structured:
+- Data types were standardized.
+- The first row was promoted to headers for consistency.
 
