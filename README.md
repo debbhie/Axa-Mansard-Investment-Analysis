@@ -18,3 +18,19 @@ Several steps were taken in Power Query (Microsoft Excel) to ensure the data was
 - Data types were standardized.
 - The first row was promoted to headers for consistency.
 
+### Data Preparation in Power BI:
+After loading the cleaned data into Power BI, the following transformations and enhancements were made:
+
+* Date column breakdown: The day, month, and year were extracted to facilitate time-based analysis.
+
+* Creation of a new table: A separate table was generated to highlight the largest withdrawals (sales).
+
+* Addition of key measures to enhance the analysis:
+
+  - Total Inflow (sum of all deposits/purchases)
+
+  - Total Outflow (sum of all withdrawals/sales)
+
+  - Net Cash Flow (difference between inflow and outflow)
+
+  - Quarterly Returns (to track investment gains over time)
