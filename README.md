@@ -61,3 +61,20 @@ The analysis reveals several key financial insights related to the investment pe
 - Monthly Inflow and Outflow:
    * The highest monthly inflow was recorded in March, totaling 6,498,004.10.
    * The highest outflow occurred in the same month, with a total of 9,212,434.46. This suggests that March was a particularly active month for transactions, especially liquidations.
+
+- Sales and Purchase Frequency:
+   * October had the highest number of sales transactions, with 34 recorded sales.
+   * April witnessed the highest number of purchase transactions, with 25 purchases made. This gives a sense of the transaction activity distribution across different months.
+
+- Top Largest Withdrawals:
+   * The largest withdrawal occurred on March 31, 2021, with a transaction of 4,000,000.
+   * The second-largest withdrawal was on March 30, 2021, amounting to 3,000,000. These transactions significantly contributed to the overall outflow.
+
+- Highest Quarterly Profits:
+   * The quarter with the highest profit was Q4 2024 (October), where a profit of 143,336.00 was recorded.
+   * The second-highest profit occurred in Q2 2020 (April), with a total of 127,665.75. These figures show the periods when the investment performed well in terms of profits.
+
+- Sales and Purchase Proportion:
+   * The total sum of sales (withdrawals) is 42,733,147.61, representing 55.46% of the total transactions.
+   * The total sum of purchases (deposits) is 34,323,397.96, accounting for 44.54% of the transactions. This analysis shows that withdrawals exceeded deposits over the investment period, contributing to the negative net cash flow.
+
