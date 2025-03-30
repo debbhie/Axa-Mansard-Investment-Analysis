@@ -1,6 +1,15 @@
 # AXA MANSARD INVESTMENT ANALYSIS
 
 # TABLE OF CONTENT
+- [AXA MANSARD INVESTMENT OVERVIEW](#axa-mansard-inestment-overview)
+- [DATA SOURCE](#data-source)
+- [TOOLS](#tools)
+- [DATA PROCESSING](#data-processing)
+- [SKILLS DEMONSTRATED](#skills-demonstrated)
+- [OBJECTIVES/ PROBLEM STATEMENT](#objectives-/-problem-statement)
+- [DATA ANALYSIS AND VISUALIZATION](#data-analaysis-and-visualization)
+- [INSIGHTS](#insights)
+- [RECOMMENDATIONS](#recommendations)
 
 # AXA MANSARD INVESTMENT OVERVIEW
 This report presents a comprehensive analysis of my husband's Mmonry market investment with AXA Mansard from 2019 to 2024, based on the provided dataset. The primary objective of this analysis is to track deposits, liquidations, and profits generated from the money market investment. By examining these financial activities, this report aims to provide clearer insights into investment performance and offer strategic recommendations on optimizing returns by minimizing withdrawals or liquidations.
