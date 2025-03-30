@@ -93,11 +93,17 @@ The analysis reveals several key financial insights related to the investment pe
 - Highest Quarterly Profits:
    * The quarter with the highest profit was Q4 2024 (October), where a profit of 143,336.00 was recorded.
    * The second-highest profit occurred in Q2 2020 (April), with a total of 127,665.75. These figures show the periods when the investment performed well in terms of profits.
+  ![Axa quarterly](https://github.com/user-attachments/assets/b34224ba-9c58-424b-8058-1f79f3f0e5fb)
 
 - Sales and Purchase Proportion:
    * The total sum of sales (withdrawals) is 42,733,147.61, representing 55.46% of the total transactions.
    * The total sum of purchases (deposits) is 34,323,397.96, accounting for 44.54% of the transactions. This analysis shows that withdrawals exceeded deposits over the investment period, contributing to the negative net cash flow.
 ![Axa narration](https://github.com/user-attachments/assets/52c0d967-3dff-4eff-87da-4d46f09b9d54)
+
+# DATA VISUALIZATION
+![Axa dashboard](https://github.com/user-attachments/assets/462b418d-f586-4ca3-aa91-936de9d760c2)
+
+Interact with the dashboard here
 
 # INSIGHTS
 - Negative Cash Flow and ROI: The Net Cash Flow of -8,409,749.65 and Return on Investment (ROI) of -19.69% indicate that the investment did not perform well overall. Outflows (withdrawals or liquidations) exceeded the inflows (deposits or purchases), resulting in a net loss.
