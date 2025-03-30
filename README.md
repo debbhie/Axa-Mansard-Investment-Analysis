@@ -83,10 +83,12 @@ The analysis reveals several key financial insights related to the investment pe
 - Sales and Purchase Frequency:
    * October had the highest number of sales transactions, with 34 recorded sales.
    * April witnessed the highest number of purchase transactions, with 25 purchases made. This gives a sense of the transaction activity distribution across different months.
+  ![Axa frequency](https://github.com/user-attachments/assets/4e72c3d4-0fdf-464c-99ae-25e42310db75)
 
 - Top Largest Withdrawals:
    * The largest withdrawal occurred on March 31, 2021, with a transaction of 4,000,000.
    * The second-largest withdrawal was on March 30, 2021, amounting to 3,000,000. These transactions significantly contributed to the overall outflow.
+![Axa withdrawals](https://github.com/user-attachments/assets/8eaa07d3-14a9-45b2-94c6-cc8cd3acb489)
 
 - Highest Quarterly Profits:
    * The quarter with the highest profit was Q4 2024 (October), where a profit of 143,336.00 was recorded.
@@ -95,6 +97,7 @@ The analysis reveals several key financial insights related to the investment pe
 - Sales and Purchase Proportion:
    * The total sum of sales (withdrawals) is 42,733,147.61, representing 55.46% of the total transactions.
    * The total sum of purchases (deposits) is 34,323,397.96, accounting for 44.54% of the transactions. This analysis shows that withdrawals exceeded deposits over the investment period, contributing to the negative net cash flow.
+![Axa narration](https://github.com/user-attachments/assets/52c0d967-3dff-4eff-87da-4d46f09b9d54)
 
 # INSIGHTS
 - Negative Cash Flow and ROI: The Net Cash Flow of -8,409,749.65 and Return on Investment (ROI) of -19.69% indicate that the investment did not perform well overall. Outflows (withdrawals or liquidations) exceeded the inflows (deposits or purchases), resulting in a net loss.
