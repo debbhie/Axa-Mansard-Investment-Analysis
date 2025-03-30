@@ -32,18 +32,23 @@ Several steps were taken in Power Query (Microsoft Excel) to ensure the data was
 After loading the cleaned data into Power BI, the following transformations and enhancements were made:
 
 * Date column breakdown: The day, month, and year were extracted to facilitate time-based analysis.
+![Axa cleaning 2](https://github.com/user-attachments/assets/ad4550df-3bd2-4f65-b6aa-6d2894202af2)
 
 * Creation of a new table: A separate table was generated to highlight the largest withdrawals (sales).
+![Axa Top withdraw](https://github.com/user-attachments/assets/bc506641-d079-48a1-9a14-a0ab847fcfed)
 
 * Addition of key measures to enhance the analysis:
 
   - Total Inflow (sum of all deposits/purchases)
+![Axa Inflow](https://github.com/user-attachments/assets/bd3b3aba-33a1-4202-9319-718dbc32a0b0)
 
   - Total Outflow (sum of all withdrawals/sales)
+![Axa outflow](https://github.com/user-attachments/assets/1059e440-a46e-4d7c-9fd1-b4a1f42d51d6)
 
   - Net Cash Flow (difference between inflow and outflow)
 
   - Quarterly Returns (to track investment gains over time)
+![Axa Quarter](https://github.com/user-attachments/assets/216a7258-9a03-4160-b84a-2a4345c9f152)
 
 # SKILLS DEMONSTRATED
 This analysis involved multiple data processing and analytical techniques, including:
