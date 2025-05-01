@@ -15,7 +15,13 @@
 This report presents a comprehensive analysis of my husband's money market investment with AXA Mansard from 2019 to 2024, based on the provided dataset. The primary objective of this analysis is to track deposits, liquidations, and profits generated from the money market investment. By examining these financial activities, this report aims to provide clearer insights into investment performance and offer strategic recommendations on optimizing returns by minimizing withdrawals or liquidations.
 
 # DATA SOURCE
-The dataset was obtained from AXA Mansard in PDF format. To make it usable for analysis, a PDF converter was used to transform the data into an Excel file. Since the extracted data was messy, it was cleaned and structured in Microsoft Excel before further processing.
+The dataset was obtained from AXA Mansard in PDF format. 
+Sample of the PDF data
+![Screenshot 2025-05-01 152221](https://github.com/user-attachments/assets/7593196b-99d5-4ef5-8750-bc602c06e81c)
+
+To make it usable for analysis, a PDF converter was used to transform the data into an Excel file. Since the extracted data was messy, it was cleaned and structured in Microsoft Excel before further processing.
+Sample of the excel data
+![Screenshot 2025-05-01 152100](https://github.com/user-attachments/assets/7b382a6c-4df7-466e-8a0e-b1569d1f8790)
 
 # TOOLS
 - Microsoft Excel: This was used for initial data loading and cleaning, transforming the raw dataset into a structured format suitable for analysis.
