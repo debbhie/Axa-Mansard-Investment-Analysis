@@ -19,6 +19,7 @@ The dataset was obtained from AXA Mansard in PDF format.
 Sample of the PDF data
 ![Screenshot 2025-05-01 152221](https://github.com/user-attachments/assets/7593196b-99d5-4ef5-8750-bc602c06e81c)
 
+
 To make it usable for analysis, a PDF converter was used to transform the data into an Excel file. Since the extracted data was messy, it was cleaned and structured in Microsoft Excel before further processing.
 Sample of the excel data
 ![Screenshot 2025-05-01 152100](https://github.com/user-attachments/assets/7b382a6c-4df7-466e-8a0e-b1569d1f8790)
